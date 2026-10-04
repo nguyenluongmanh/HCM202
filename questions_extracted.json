@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Theo Hồ Chí Minh, đại đoàn kết toàn dân tộc là gì đối với cách mạng Việt Nam?",
+    "options": {
+      "A": "Chỉ cần trong thời chiến",
+      "B": "Thủ đoạn chính trị",
+      "C": "Sách lược tạm thời",
+      "D": "Chiến lược lâu dài, nhất quán"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 2,
+    "question": "Hoàn thành câu: “Đoàn kết, đoàn kết, đại đoàn kết – Thành công, thành công, ...”",
+    "options": {
+      "A": "đại thắng lợi",
+      "B": "đại phát triển",
+      "C": "đại tự do",
+      "D": "đại thành công"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Mục đích của Đảng Lao động Việt Nam (3-3-1951) được Hồ Chí Minh gói trong tám chữ nào?",
+    "options": {
+      "A": "Đoàn kết toàn dân, phụng sự Tổ quốc",
+      "B": "Độc lập dân tộc, chủ nghĩa xã hội",
+      "C": "Vì nước, vì dân",
+      "D": "Dân giàu, nước mạnh"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Chủ thể của khối đại đoàn kết toàn dân tộc theo Hồ Chí Minh là ai?",
+    "options": {
+      "A": "Chỉ trí thức và thanh niên",
+      "B": "Toàn thể nhân dân, mọi người Việt Nam yêu nước",
+      "C": "Chỉ công nhân và nông dân",
+      "D": "Chỉ Đảng viên Đảng Cộng sản"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Lực lượng làm nền tảng của khối đại đoàn kết toàn dân tộc là:",
+    "options": {
+      "A": "Địa chủ, tư sản, tiểu thương",
+      "B": "Công nhân, nông dân và trí thức",
+      "C": "Doanh nhân, trí thức, thanh niên",
+      "D": "Quân đội và công an"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Trong khối đại đoàn kết toàn dân tộc, “hạt nhân” cần đặc biệt chú trọng là gì?",
+    "options": {
+      "A": "Sự đoàn kết các dân tộc thiểu số",
+      "B": "Sự đoàn kết kiều bào",
+      "C": "Sự đoàn kết giữa các tôn giáo",
+      "D": "Sự đoàn kết thống nhất trong Đảng"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Điều nào KHÔNG phải điều kiện xây dựng khối đại đoàn kết toàn dân tộc?",
+    "options": {
+      "A": "Kế thừa truyền thống yêu nước, nhân nghĩa",
+      "B": "Loại bỏ những người từng lầm đường",
+      "C": "Có lòng khoan dung, độ lượng",
+      "D": "Lấy lợi ích chung làm điểm quy tụ"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Câu “Năm ngón tay cũng có ngón vắn ngón dài” thể hiện điều kiện nào?",
+    "options": {
+      "A": "Lấy lợi ích chung làm điểm quy tụ",
+      "B": "Niềm tin vào nhân dân",
+      "C": "Kế thừa truyền thống dân tộc",
+      "D": "Lòng khoan dung, độ lượng với con người"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Hồ Chí Minh xác định hình thức tổ chức của khối đại đoàn kết toàn dân tộc là:",
+    "options": {
+      "A": "Mặt trận dân tộc thống nhất",
+      "B": "Công đoàn",
+      "C": "Quốc hội",
+      "D": "Hội đồng nhân dân"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Mặt trận Việt Minh được thành lập vào năm nào?",
+    "options": {
+      "A": "1930",
+      "B": "1936",
+      "C": "1941",
+      "D": "1951"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Mặt trận Dân chủ Đông Dương được thành lập vào năm nào?",
+    "options": {
+      "A": "1936",
+      "B": "1930",
+      "C": "1939",
+      "D": "1941"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Nguyên tắc cốt lõi khi xây dựng Mặt trận là dựa trên nền tảng liên minh nào?",
+    "options": {
+      "A": "Công nhân – tư sản – địa chủ",
+      "B": "Trí thức – doanh nhân – thanh niên",
+      "C": "Nông dân – thương nhân – quân đội",
+      "D": "Công nhân – nông dân – trí thức"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Mặt trận dân tộc thống nhất hoạt động theo nguyên tắc nào?",
+    "options": {
+      "A": "Tập trung quan liêu",
+      "B": "Áp đặt từ trên xuống",
+      "C": "Biểu quyết theo đa số",
+      "D": "Hiệp thương dân chủ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Phương châm Hồ Chí Minh nhấn mạnh trong hoạt động của Mặt trận là gì?",
+    "options": {
+      "A": "Tách biệt giai cấp",
+      "B": "Loại trừ khác biệt",
+      "C": "Đồng hóa mọi lực lượng",
+      "D": "Cầu đồng tồn dị"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "question": "Phương thức đầu tiên để xây dựng khối đại đoàn kết toàn dân tộc là gì?",
+    "options": {
+      "A": "Mở rộng thương mại",
+      "B": "Ban hành nhiều luật",
+      "C": "Thành lập quân đội",
+      "D": "Làm tốt công tác vận động quần chúng (dân vận)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Các đoàn thể, tổ chức quần chúng là sợi dây gắn kết giữa ai với ai?",
+    "options": {
+      "A": "Nhà nước với doanh nghiệp",
+      "B": "Trí thức với nông dân",
+      "C": "Quân đội với nhân dân",
+      "D": "Đảng với nhân dân"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Theo Hồ Chí Minh, sức mạnh dân tộc là sự tổng hợp của yếu tố nào?",
+    "options": {
+      "A": "Chỉ sức mạnh kinh tế",
+      "B": "Chỉ sức mạnh của Đảng",
+      "C": "Các yếu tố vật chất và tinh thần, trước hết là chủ nghĩa yêu nước",
+      "D": "Chỉ sức mạnh quân sự"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Sức mạnh thời đại theo Hồ Chí Minh chủ yếu là sức mạnh của:",
+    "options": {
+      "A": "Các cường quốc quân sự",
+      "B": "Phong trào cách mạng thế giới và chủ nghĩa Mác – Lênin",
+      "C": "Các tập đoàn kinh tế",
+      "D": "Các tổ chức tài chính quốc tế"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Thực hiện đoàn kết quốc tế nhằm mục đích chính nào?",
+    "options": {
+      "A": "Chỉ để nhận viện trợ",
+      "B": "Tránh tham gia quan hệ quốc tế",
+      "C": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại",
+      "D": "Thay thế đại đoàn kết dân tộc"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Hồ Chí Minh sớm xác định cách mạng Việt Nam là một bộ phận của:",
+    "options": {
+      "A": "Cách mạng vô sản Pháp",
+      "B": "Cách mạng thế giới",
+      "C": "Cách mạng châu Á",
+      "D": "Cách mạng Đông Dương"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Theo Hồ Chí Minh, cơ sở của việc thực hiện đoàn kết quốc tế là gì?",
+    "options": {
+      "A": "Sức mạnh quân sự",
+      "B": "Viện trợ nước ngoài",
+      "C": "Đại đoàn kết toàn dân tộc",
+      "D": "Quan hệ ngoại giao"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Chủ nghĩa yêu nước chân chính phải gắn liền với:",
+    "options": {
+      "A": "Chủ nghĩa cá nhân",
+      "B": "Chủ nghĩa quốc tế vô sản",
+      "C": "Chủ nghĩa biệt phái",
+      "D": "Chủ nghĩa dân tộc hẹp hòi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Đoàn kết quốc tế không chỉ vì thắng lợi của cách mạng mỗi nước mà còn vì:",
+    "options": {
+      "A": "Lợi ích của các nước lớn",
+      "B": "Lợi ích thương mại",
+      "C": "Sự nghiệp chung của nhân loại tiến bộ",
+      "D": "Việc xây dựng liên minh quân sự"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Khuynh hướng nào KHÔNG bị Hồ Chí Minh phê phán trong phong trào cách mạng thế giới?",
+    "options": {
+      "A": "Chủ nghĩa vị kỷ dân tộc",
+      "B": "Chủ nghĩa cơ hội",
+      "C": "Chủ nghĩa yêu nước chân chính",
+      "D": "Chủ nghĩa sô vanh"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "question": "Lực lượng nào KHÔNG thuộc lực lượng đoàn kết quốc tế theo Hồ Chí Minh?",
+    "options": {
+      "A": "Các thế lực đế quốc, thực dân xâm lược",
+      "B": "Phong trào giải phóng dân tộc",
+      "C": "Phong trào hòa bình, dân chủ thế giới",
+      "D": "Phong trào cộng sản và công nhân quốc tế"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Khẩu hiệu “Bốn phương vô sản đều là anh em” gắn với lực lượng nào?",
+    "options": {
+      "A": "Phong trào cộng sản và công nhân quốc tế",
+      "B": "Phong trào hòa bình thế giới",
+      "C": "Các nước láng giềng",
+      "D": "Phong trào giải phóng dân tộc"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Năm 1924, Hồ Chí Minh đưa ra quan điểm thành lập mặt trận thống nhất của ai?",
+    "options": {
+      "A": "Các nước châu Á",
+      "B": "Nhân dân Đông Dương",
+      "C": "Nhân dân chính quốc và thuộc địa",
+      "D": "Các nước xã hội chủ nghĩa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Hồ Chí Minh định hướng hình thành bao nhiêu tầng mặt trận đoàn kết?",
+    "options": {
+      "A": "Hai tầng",
+      "B": "Ba tầng",
+      "C": "Bốn tầng",
+      "D": "Năm tầng"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Ba dân tộc Việt Nam, Lào, Campuchia có chung kẻ thù là:",
+    "options": {
+      "A": "Thực dân Tây Ban Nha",
+      "B": "Phát xít Đức",
+      "C": "Đế quốc Anh",
+      "D": "Thực dân Pháp"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 30,
+    "question": "Hội Liên hiệp thuộc địa do Hồ Chí Minh tham gia sáng lập được đặt tại đâu?",
+    "options": {
+      "A": "Pháp",
+      "B": "Trung Quốc",
+      "C": "Thái Lan",
+      "D": "Liên Xô"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Nguyên tắc thứ nhất của đoàn kết quốc tế là đoàn kết trên cơ sở:",
+    "options": {
+      "A": "Độc lập, tự chủ",
+      "B": "Thống nhất mục tiêu và lợi ích; có lý, có tình",
+      "C": "Viện trợ lẫn nhau",
+      "D": "Cùng chế độ chính trị"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Nguyên tắc thứ hai của đoàn kết quốc tế theo Hồ Chí Minh là:",
+    "options": {
+      "A": "Nhượng bộ vô điều kiện",
+      "B": "Đoàn kết trên cơ sở độc lập, tự chủ",
+      "C": "Chỉ làm bạn với nước lớn",
+      "D": "Dựa hoàn toàn vào nước ngoài"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Hoàn thành câu: “Thực lực là cái chiêng, ngoại giao là ...”",
+    "options": {
+      "A": "cái khiên",
+      "B": "cái tiếng",
+      "C": "cái cầu",
+      "D": "cái thước"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Theo Hồ Chí Minh, nhân tố quyết định trong đoàn kết quốc tế là gì?",
+    "options": {
+      "A": "Dư luận quốc tế",
+      "B": "Nội lực",
+      "C": "Viện trợ",
+      "D": "Ngoại lực"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Tháng 9-1947, Hồ Chí Minh tuyên bố chính sách đối ngoại của Việt Nam là:",
+    "options": {
+      "A": "Chỉ làm bạn với các nước xã hội chủ nghĩa",
+      "B": "Làm bạn với mọi nước dân chủ, không gây thù oán với ai",
+      "C": "Trung lập tuyệt đối",
+      "D": "Liên minh quân sự với các nước lớn"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Nền hòa bình mà Hồ Chí Minh theo đuổi là hòa bình:",
+    "options": {
+      "A": "Dựa vào vũ lực",
+      "B": "Trong độc lập, tự do",
+      "C": "Bằng mọi giá",
+      "D": "Chỉ cho nước lớn"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Mặt trận nhân dân thế giới đoàn kết với Việt Nam có sự tham gia của nhân dân nước nào?",
+    "options": {
+      "A": "Cả nhân dân Pháp và nhân dân Mỹ yêu chuộng hòa bình",
+      "B": "Chỉ các nước láng giềng",
+      "C": "Chỉ Liên Xô và Trung Quốc",
+      "D": "Chỉ các nước châu Á"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Trong kháng chiến chống Mỹ, Việt Nam nhận sự giúp đỡ lớn của những nước nào?",
+    "options": {
+      "A": "Chỉ các nước phương Tây",
+      "B": "Chỉ các nước Đông Nam Á",
+      "C": "Liên Xô, Trung Quốc và các nước xã hội chủ nghĩa",
+      "D": "Không nhận sự giúp đỡ nào"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "question": "Nghị quyết 07/NQ-TW (2-11-1993) của Bộ Chính trị khóa VII nói về vấn đề gì?",
+    "options": {
+      "A": "Đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất",
+      "B": "Xây dựng nhà nước pháp quyền",
+      "C": "Đổi mới giáo dục",
+      "D": "Hội nhập kinh tế quốc tế"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Đại hội XII (2016) khẳng định đại đoàn kết dân tộc là gì?",
+    "options": {
+      "A": "Sách lược ngắn hạn",
+      "B": "Nhiệm vụ riêng của Mặt trận",
+      "C": "Đường lối chiến lược, động lực và nguồn lực lớn của cách mạng",
+      "D": "Chỉ cần trong thời chiến"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Đại hội nào của Đảng nêu quan điểm Việt Nam là “bạn và đối tác tin cậy”?",
+    "options": {
+      "A": "Đại hội VII",
+      "B": "Đại hội VIII",
+      "C": "Đại hội IX",
+      "D": "Đại hội XI"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 42,
+    "question": "Điểm tương đồng để tập hợp khối đại đoàn kết dân tộc hiện nay là mục tiêu nào?",
+    "options": {
+      "A": "Xây dựng quân đội mạnh nhất",
+      "B": "Tăng trưởng GDP cao nhất",
+      "C": "Phát triển công nghiệp nặng",
+      "D": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 43,
+    "question": "Hiện nay, hợp tác quốc tế của Việt Nam phải xuất phát từ đâu?",
+    "options": {
+      "A": "Yêu cầu của đối tác",
+      "B": "Lợi ích dân tộc, lợi ích đất nước",
+      "C": "Lợi ích của tổ chức quốc tế",
+      "D": "Xu hướng nhất thời"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Hiện nay, để huy động sức mạnh dân tộc, Đảng và Nhà nước cần phát huy điều gì?",
+    "options": {
+      "A": "Chỉ sức mạnh quân sự",
+      "B": "Chỉ nguồn lực nước ngoài",
+      "C": "Chỉ sức mạnh của doanh nghiệp",
+      "D": "Sức mạnh chủ nghĩa yêu nước, người làm chủ, đại đoàn kết toàn dân"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Quan hệ giữa sức mạnh bên trong và sự ủng hộ bên ngoài hiện nay là:",
+    "options": {
+      "A": "Dựa hoàn toàn vào bên ngoài",
+      "B": "Hai yếu tố tách rời",
+      "C": "Dựa vào sức mạnh bên trong để tranh thủ sự ủng hộ bên ngoài",
+      "D": "Bên ngoài quyết định tất cả"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "question": "Việc xây dựng Đảng trong sạch, vững mạnh nhằm mục đích gì trong đoàn kết?",
+    "options": {
+      "A": "Hạn chế hội nhập",
+      "B": "Giảm vai trò nhân dân",
+      "C": "Làm hạt nhân đoàn kết toàn dân tộc và đoàn kết quốc tế",
+      "D": "Thay thế vai trò Mặt trận"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Bài học hiện nay: cách mạng Việt Nam là bộ phận ... của cách mạng thế giới.",
+    "options": {
+      "A": "độc lập hoàn toàn",
+      "B": "phụ thuộc",
+      "C": "tạm thời",
+      "D": "không thể tách rời"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 48,
+    "question": "Theo Hồ Chí Minh, các dân tộc châu Á có độc lập thì điều gì mới thực hiện được?",
+    "options": {
+      "A": "Sự giàu có chung",
+      "B": "Chiến tranh chấm dứt ngay",
+      "C": "Nền hòa bình thế giới",
+      "D": "Sự thống nhất châu Á"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Giải pháp nào KHÔNG nằm trong các vấn đề cơ bản để tăng cường khối đại đoàn kết dân tộc hiện nay?",
+    "options": {
+      "A": "Tăng cường quan hệ mật thiết giữa nhân dân với Đảng, Nhà nước",
+      "B": "Tuyên truyền nâng cao nhận thức về đại đoàn kết",
+      "C": "Giảm vai trò lãnh đạo của Đảng",
+      "D": "Giải quyết tốt quan hệ lợi ích giữa các giai cấp, tầng lớp"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 50,
+    "question": "Theo Hồ Chí Minh, nhận thức đoàn kết thực sự phải gắn với thái độ nào trong Mặt trận?",
+    "options": {
+      "A": "Chỉ đấu tranh, không đoàn kết",
+      "B": "Chỉ đoàn kết, không phê bình",
+      "C": "Đoàn kết hình thức",
+      "D": "Vừa đoàn kết, vừa đấu tranh, học cái tốt của nhau"
+    },
+    "correctAnswer": "D"
+  }
+]
